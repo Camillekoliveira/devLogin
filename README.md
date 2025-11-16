@@ -25,6 +25,3 @@ Uma **tela de login simples** construída com HTML, CSS. Projeto criado para pra
 ✅ Licença
 Este projeto está sob a licença MIT — ou substitua pela licença que você preferir.
 
-🧡 Sobre mim
-Criado por Camille Oliveira.
-Você pode me encontrar no GitHub: Camillekoliveira
