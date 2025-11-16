@@ -117,3 +117,26 @@ body {
     text-decoration: underline;
 }
 
+footer {
+    position: fixed;
+    bottom: 15px;   
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 14px;
+    color: #ffffffcc;  
+}
+
+footer a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
+
+

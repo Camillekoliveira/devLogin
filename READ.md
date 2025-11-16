@@ -1,6 +1,6 @@
 # devLogin
 
-Uma **tela de login simples** construída com HTML, CSS e (se tiver) JavaScript. Este projeto é ideal para praticar a criação de interfaces web, validação de formulário e design responsivo.
+Uma **tela de login simples** construída com HTML, CSS. Projeto criado para praticar a criação de interfaces web, validação de formulário e design.
 
 ---
 
@@ -8,9 +8,7 @@ Uma **tela de login simples** construída com HTML, CSS e (se tiver) JavaScript.
 
 - Formulário de login (usuário e senha)  
 - Design estilizado com CSS  
-- Layout responsivo (para diferentes tamanhos de tela)  
-- Validação básica de inputs (se tiver JavaScript)  
-- Imagens ou logo na página (você já tem uma pasta `img/`)  
+- Layout responsivo (para diferentes tamanhos de tela)   
 
 ---
 
@@ -24,9 +22,9 @@ Uma **tela de login simples** construída com HTML, CSS e (se tiver) JavaScript.
   - `img/` — imagens utilizadas no projeto  
 
 ---
+✅ Licença
+Este projeto está sob a licença MIT — ou substitua pela licença que você preferir.
 
-## 📁 Como usar / executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Camillekoliveira/devLogin.git
+🧡 Sobre mim
+Criado por Camille Oliveira.
+Você pode me encontrar no GitHub: Camillekoliveira
